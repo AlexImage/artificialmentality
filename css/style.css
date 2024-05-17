@@ -2,10 +2,10 @@
     padding-top: 14px;
     padding-bottom: 14px;
 } */
-@media (min-width:450px) {
+@media (max-width:449px) {
 .header-al {
 padding-left: 15px;
-font-size: 14px;
+font-size: 13px;
 }
 }
 
