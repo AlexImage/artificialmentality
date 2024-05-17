@@ -1,0 +1,17 @@
+/* p {
+    padding-top: 14px;
+    padding-bottom: 14px;
+} */
+@media (min-width:450px) {
+.header-al {
+padding-left: 15px;
+font-size: 14px;
+}
+}
+
+@media (min-width:1024px) {
+.header-al {
+padding-left: 127px;
+font-size: 30px;
+}
+}
